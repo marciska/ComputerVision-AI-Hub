@@ -5,3 +5,4 @@ Repo that hosts various AI models in Computer Vision (mainly generative AI) to l
 Current models include:
 
 - Variational AutoEncoders (VAEs), both with CNNs and without
+- Diffusion Model (in the most standard way)
